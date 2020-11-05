@@ -11,3 +11,5 @@ I am adding some text here
 
 ![](sentosa.jpg)
 
+Adding another line, but this time not from GitHub Editor -- this is from Google Cloud Shell
+
